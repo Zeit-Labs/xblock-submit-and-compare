@@ -10,3 +10,4 @@ venv/
 .idea/
 
 # Local translations
+submit_and_compare/conf/locale/*/LC_MESSAGES/*
