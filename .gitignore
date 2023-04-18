@@ -8,3 +8,6 @@ package-lock.json
 sdk/
 venv/
 .idea/
+
+# Local translations
+submit_and_compare/conf/locale/en/LC_MESSAGES/*
